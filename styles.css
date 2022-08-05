@@ -1,0 +1,21 @@
+* {
+    font-family: "Arial", sans-serif;
+    background: rgb(255,230,170);
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: rgb(75,50,25);
+}
+
+.cooked {
+    width: 500px;
+    height: auto;
+}
+
+#rec-list {
+    font-size: 20px;
+    color: rgb(150,100,50);
+}
